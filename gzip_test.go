@@ -1,8 +1,8 @@
 package gzip
 
 import (
-	"github.com/go-martini/martini"
 	"bufio"
+	"github.com/isdamir/martini"
 	"net"
 	"net/http"
 	"net/http/httptest"
